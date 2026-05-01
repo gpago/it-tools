@@ -3,3 +3,6 @@
 
 /*
   Access-Control-Allow-Origin: https://umami.gpago.com
+  Access-Control-Allow-Methods: GET, POST, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+  Vary: Origin
