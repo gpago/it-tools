@@ -1,0 +1,5 @@
+# Cloudflare Pages custom headers
+# https://developers.cloudflare.com/pages/platform/headers/
+
+/*
+  Access-Control-Allow-Origin: https://umami.gpago.com
